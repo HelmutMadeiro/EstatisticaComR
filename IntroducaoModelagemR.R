@@ -189,7 +189,7 @@ anova(modelocompleto,modeloimcompleto) # valor de p 0.5732
 #cidades costeiras apresetam uma melhor qualidade do ar.
 
 #vamos testar o vscode
-
+#testando a volta
 
 
 
